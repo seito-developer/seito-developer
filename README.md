@@ -4,8 +4,10 @@ I've worked in Japan and the Philippines.
 I'm always looking for a challenging opportunity to work as a Web developer.
 
 __Index__
-- [#History]("History")
-
+- History
+- Skills
+- Private Projects
+- Writings
 
 # History
 ## Work
@@ -77,6 +79,15 @@ the development team from scratch, reaching 90 members within 3.5 years
 
 # Skills
 
+## Business Skills (More than five years)
+- Management
+- Human Recruitment
+- Producing Co-working space
+- Organizing events & developer's community
+- Trainer for development
+- Developing Web site & application software
+- Technical direction
+
 ## Tech Skills
 ### Expert (3~5 years of development experience)
 - JavaScript and TypeScript (React, Next.js, Node.js, jQuery)
@@ -97,15 +108,6 @@ the development team from scratch, reaching 90 members within 3.5 years
 - R
 - Flutter
 - Firebase (Firestore, CLI)
-
-## Business Skills (More than five years)
-- Management
-- Human Recruitment
-- Producing Co-working space
-- Organizing events & developer's community
-- Trainer for development
-- Developing Web site & application software
-- Technical direction
 
 # Private Projects
 ## HTML Cards / Mar 2022
