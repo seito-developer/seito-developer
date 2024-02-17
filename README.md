@@ -33,7 +33,7 @@ __Index__
 
 ## YouTube
 - Period: Dec 2020 ~ Present
-- URL: [https://www.youtube.com/channel/UC8IWoNfegB72Q2nT9GJy2zQ](https://cody.inc/](https://www.youtube.com/channel/UC8IWoNfegB72Q2nT9GJy2zQ)
+- URL: [https://www.youtube.com/channel/UC8IWoNfegB72Q2nT9GJy2zQ](https://www.youtube.com/channel/UC8IWoNfegB72Q2nT9GJy2zQ)
 - Role: Tech YouTuber
 - Achievements:
   - Achieved 100,000 subscribers about three years after its launch
@@ -124,5 +124,5 @@ the development team from scratch, reaching 90 members within 3.5 years
 # Writings
 - Now writing...
   - Will be pushed about the efficient way how to learn coding in 2024 
-- [https://amzn.asia/d/6DXpEzE]("The Best Practice of CSS Architecture")
+- [https://amzn.asia/d/6DXpEzE](The Best Practice of CSS Architecture)
   - Published the book about the CSS architecture in 2015.
