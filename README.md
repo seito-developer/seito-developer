@@ -111,18 +111,18 @@ the development team from scratch, reaching 90 members within 3.5 years
 
 # Private Projects
 ## HTML Cards / Mar 2022
-- URL: [https://apps.apple.com/jp/app/html-cards/id1612679606](Apple Store)
+- URL: [Apple Store](https://apps.apple.com/jp/app/html-cards/id1612679606)
 - Overview: HTML Cards is a mobile education app for junior coding learners.
 - Used technology: Flutter with Dart and SQLite
 - Achievement: Totally over 10,000 downloads
 
 ## The Simplest Timer / June 2022
-- URL: [https://apps.apple.com/jp/app/the-simplest-timer/id1637279351](Apple Store)
+- URL: [Apple Store](https://apps.apple.com/jp/app/the-simplest-timer/id1637279351)
 - Overview: The Simplest Timer is a mobile app for students and athletes. 
 - Used technology: Flutter with Dart and Firebase(Firestore)
 
 # Writings
 - Now writing...
   - Will be pushed about the efficient way how to learn coding in 2024 
-- [https://amzn.asia/d/6DXpEzE](The Best Practice of CSS Architecture)
+- [The Best Practice of CSS Architecture](https://amzn.asia/d/6DXpEzE)
   - Published the book about the CSS architecture in 2015.
