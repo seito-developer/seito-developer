@@ -6,7 +6,7 @@ I've worked in Japan and the Philippines
 
 ## YouTube
 - Period: Dec 2020 ~ Present
-- URL: [https://www.youtube.com/channel/UC8IWoNfegB72Q2nT9GJy2zQ]([https://cody.inc/](https://www.youtube.com/channel/UC8IWoNfegB72Q2nT9GJy2zQ))
+- URL: [https://www.youtube.com/channel/UC8IWoNfegB72Q2nT9GJy2zQ](https://www.youtube.com/channel/UC8IWoNfegB72Q2nT9GJy2zQ)
 - My Role: Tech YouTuber
 - Achievements:
   - Achieved 100,000 subscribers about three years after its launch
