@@ -9,6 +9,7 @@ __Index__
 - Skills
 - Private Projects
 - Writings
+- etc
 
 # History
 ## Work
