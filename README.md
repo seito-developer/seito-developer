@@ -3,6 +3,7 @@ I'm Seito in Japan, a Web developer and a tech YouTuber!
 I've worked in Japan and the Philippines.  
 I'm always looking for a challenging opportunity to work as a Web developer.
 
+
 __Index__
 - History
 - Skills
